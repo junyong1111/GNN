@@ -111,6 +111,8 @@ PyTorch Geometric에서는 TUDataset, Planetoid, Coauthor 등 다양한 데이�
 2.  Deep Graph Library (DGL): DGL은 MXNet, PyTorch 및 TensorFlow에서 GNN 모델을 구현하고 학습시키기 위한 라이브러리. 여러 가지 그래프 레이아웃과 함께 다양한 GNN 모델과 레이어를 구현할 수 있다.
 3.  Spektral: Spektral은 Keras 기반의 GNN 라이브러리로 다양한 GNN 모델을 쉽게 구현하고 학습시킬 수 있다.
 4.  NetworkX: NetworkX는 Python에서 네트워크 분석을 위한 라이브러리입니다. NetworkX를 사용하여 GNN 모델을 구현하고 학습시킬 수 있다.
+5.  recommenders : 마이크로소프트 오픈 소스 라이브러리
+6. ibRecommender : 다양한 GNN 기반 추천 시스템 구현을 위한 라이브러리
 
 아래 정리는 그래프 신경망 입문 (즈위안 리우, 지에 저우 지음,  정지수 옮김)책을 참고하였습니다.
 
